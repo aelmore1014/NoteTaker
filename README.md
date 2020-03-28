@@ -6,4 +6,4 @@ If you refresh the page your notes will still be up right where you left them.
 
 Link to the app: https://notetakerapp2.herokuapp.com/
 
-![Screenshot](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Screenshot](screenshot/Untitled.png)
